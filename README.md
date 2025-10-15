@@ -1,1 +1,1 @@
-# whop-invoices-proxy
+Vercel serverless proxy for Whop /invoices
