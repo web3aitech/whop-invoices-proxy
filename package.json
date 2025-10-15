@@ -1,0 +1,6 @@
+{
+  "name": "whop-invoices-proxy",
+  "private": true,
+  "type": "module",
+  "dependencies": {}
+}
